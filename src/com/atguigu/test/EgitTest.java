@@ -8,5 +8,6 @@ public class EgitTest {
 		System.out.println("ceshi");
 		System.out.println("再加一条 ");
 		System.out.println("再次测试 ");
+		System.out.println("ljw 添加");
 	}
 }
