@@ -9,5 +9,6 @@ public class EgitTest {
 		System.out.println("再加一条 ");
 		System.out.println("再次测试 ");
 		System.out.println("ljw 添加");
+		System.out.println("制造冲突 ");
 	}
 }
