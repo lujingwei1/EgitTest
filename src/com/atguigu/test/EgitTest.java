@@ -34,5 +34,22 @@ public class EgitTest {
 		System.out.println("ljw 添加");
 		System.out.println("ljw 添加");
 		System.out.println("ljw 添加");
+		System.out.println("ljw 添加");
+		System.out.println("ljw 添加");
+		System.out.println("ljw 添加");
+		System.out.println("ljw 添加");
+		System.out.println("ljw 添加");
+		System.out.println("ljw 添加");
+		System.out.println("ljw 添加");
+		System.out.println("ljw 添加");
+		System.out.println("ljw 添加");
+		System.out.println("ljw 添加");
+		System.out.println("ljw 添加");
+		System.out.println("ljw 添加");
+		System.out.println("ljw 添加");
+		System.out.println("ljw 添加");
+		System.out.println("ljw 添加");
+		System.out.println("ljw 添加");
+		
 	}
 }
